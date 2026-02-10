@@ -86,7 +86,7 @@ public class WebServiceClient {
     }
     
     /**
-     * Print full response with character details for debugging
+     * Print full response with character details for debugging..
      */
     private static void debugPrintResponse(String response) {
         System.out.println("\n" + "=".repeat(80));
